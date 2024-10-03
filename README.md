@@ -1,3 +1,4 @@
+0.2.5
 
 🚀 Your Trading Bot - The Ultimate Crypto Trading Solution 💹
 Discord : https://discord.gg/YvzGxHvhJP
