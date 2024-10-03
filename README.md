@@ -1,5 +1,6 @@
 
 🚀 Your Trading Bot - The Ultimate Crypto Trading Solution 💹
+Discord : https://discord.gg/YvzGxHvhJP
 Welcome to YourBot - a next-generation, automated crypto trading solution that combines cutting-edge algorithms, AI-driven market analysis, and customizable strategies to maximize your trading performance. Whether you're a short-term scalper or a long-term investor, this bot is designed to meet all your needs.
 🤖 Meet Our Bots:
 1. Short Trade Bot
@@ -140,8 +141,7 @@ Total profit %
 Number of successful vs. unsuccessful trades
 Best performing bot of the week
 Historical performance trends over multiple timeframes.
-javascript
-Skopiuj kod
+
 {
     totalProfit: '35.3%',
     successfulTrades: 68,
